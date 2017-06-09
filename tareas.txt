@@ -1,0 +1,10 @@
+Tareas que debe realizar la aplicación
+ - Realizar la solicitud de compra de algún alimento del local.
+    - El formulario debe mostrar un listado de los productos disponibles en BD.    
+    - Al realizar el pedido, debe devolver el número de atención del cliente.
+ - Listar los pedidos anteriores utilizando el rut como parámetro de entrada.
+
+Actores:
+ - Cliente, el cual interactúa con la web para realizar el pedido a través de la web-app.
+
+
